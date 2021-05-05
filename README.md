@@ -6,7 +6,7 @@ A basic front-end using Vue3 that receieves data from the abb-backend via WebSoc
 
 ```
 npm install
-npm run serve
+npm run serve #navigate to http://localhost:8080/
 ```
 
 ## Requirements
