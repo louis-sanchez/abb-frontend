@@ -15,7 +15,7 @@ npm run serve
 
 ### About
 
-Although the app uses the Vue framework it doesn't display anything!  I decided to focus mainly on the [back-end](https://github.com/louis-sanchez/abb-backend) since I am applying as a backender and if I had extra time use Vue to display the data via Components (spoiler-alert:  I didn't).  The purpose of this app is primarily to test the back-end is successfully sending the generated Parts via WebSocket communication.
+Although the app uses the Vue framework it doesn't display anything!  I decided to focus mainly on the [back-end](https://github.com/louis-sanchez/abb-backend) since I am applying as a backender and if I had extra time use Vue to display the data via Components (spoiler-alert:  I didn't).  The purpose of this app is primarily to test the back-end is successfully sending the generated Parts via WebSocket communication (open console to view logs).
 
 ### If I had more time I would ...
 
