@@ -6,11 +6,8 @@
 </template>
 
 <script>
-import Control from './components/Control'
-
 export default {
   name: "App",
-  components: { Control },
   data: function () {
     return {
       connection: null,
